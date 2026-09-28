@@ -58,6 +58,7 @@ button {
 }
 
 .main-content {
+    position: relative;
     padding: 20px;
     border: 1px solid #ccc;
 }
